@@ -3,7 +3,7 @@ var d;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(255,255,0);
+  background(0,0,255);
   frameRate(100);  
 }
 
